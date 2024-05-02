@@ -1,0 +1,6 @@
+.img-container{
+    background-image: url("img_tree.png");
+    background-repeat: no-repeat;
+    background-position: right;
+    background-attachment: fixed;
+}
